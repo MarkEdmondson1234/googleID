@@ -1,5 +1,7 @@
 # googleID
 
+status - *deprecated* - Google+ API is not valid anymore.  Use googleSignIn() from `googleAuthR` instead. 
+
 [![Travis-CI Build Status](https://travis-ci.org/MarkEdmondson1234/googleID.svg?branch=master)](https://travis-ci.org/MarkEdmondson1234/googleID)
 
 Authentication and identifying Google users using Google+ API
